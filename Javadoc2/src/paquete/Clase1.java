@@ -39,7 +39,7 @@ public class Clase1 {
 		for (int i = 0; i < atributo1.size(); i++){
 			//Cambiar esto
 			
-			System.out.println(i +1+ ") " + atributo1.get(i));
+			System.out.println(i + ") " + atributo1.get(i));
 		}
 	}
 	
