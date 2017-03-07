@@ -37,7 +37,6 @@ public class Clase1 {
 	public void metodo1(){
 		
 		for (int i = 0; i < atributo1.size(); i++){
-			//Cambiar esto
 			
 			System.out.println(i + ") " + atributo1.get(i));
 		}
